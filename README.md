@@ -1,2 +1,0 @@
-# Card
-Tarea Cards
